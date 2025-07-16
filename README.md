@@ -4,6 +4,9 @@ This dashboard provides a comprehensive visual analysis of customer churn in a t
 
 ---
 
+<img width="874" height="491" alt="Screenshot 2025-07-16 180838" src="https://github.com/user-attachments/assets/f2bd5eb9-bb8c-48f9-822a-86eb20b1e952" />
+
+
 ##  Objective
 
 The goal of this dashboard is to help stakeholders:
